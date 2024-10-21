@@ -1,6 +1,6 @@
-<h1  align="center" ; style="color:#FFFF00;">
-    <p>Code4All
-</h1>
+<h3  align="center">
+<img width="600px" src="https://github.com/code4allhub/.github/blob/main/Captura%20de%20tela%202024-10-21%20203713.png?raw=true" />
+</h3>
 
 ## Quem somos?
 #### Somos uma empresa focada em desenvolvimento de projetos 
