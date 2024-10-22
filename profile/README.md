@@ -7,8 +7,8 @@
 
 ### 🎯 Missão
 #### Produzir softwares robustos e eficientes, como uma maneira de aprender e ensinar.
-### 👁️‍🗨️ Visões
-#### Ser transparente quanto ao código de nossas aplicações, que podem ser vistos em seus respectivos repositórios. Dessa forma, democratizamos o acesso aos nossos produtos, permitindo que visitantes usem de nossos projetos como base para ideias maiores ainda!
+### 👁️‍🗨️ Visão
+#### Ser transparente quanto ao código de nossas aplicações, que podem ser vistos em seus respectivos repositórios. Dessa forma, democratizamos o acesso aos nossos códigos, permitindo que visitantes usem de nossos projetos como base para ideias maiores ainda!
 ### ⭐ Valores
 - Praticidade
 - Responsabilidade
