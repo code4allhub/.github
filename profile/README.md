@@ -5,5 +5,12 @@
 ##  Quem somos?
 #### Fundada em 2024 no Instituto Federal do Ceará, campus Fortaleza, a Code4All é uma empresa focada em desenvolvimento de projetos. Propomos o compartilhamento de experiências e conhecimentos acerca da vasta área da programação!
 
-##  Missão
-#### Ser transparente quanto ao código de nossas aplicações, que podem ser vistos em seus respectivos repositórios. Dessa forma, espalhamos os aprendizados com os visitantes de nosso perfil.
+### 🎯 Missão
+#### Produzir softwares robustos e eficientes, como uma maneira de aprender e ensinar.
+### 👁️‍🗨️ Visões
+#### Ser transparente quanto ao código de nossas aplicações, que podem ser vistos em seus respectivos repositórios. Dessa forma, democratizamos o acesso aos nossos produtos, permitindo que visitantes usem de nossos projetos como base para ideias maiores ainda!
+### ⭐ Valores
+- Praticidade
+- Responsabilidade
+- Acessibildade
+
